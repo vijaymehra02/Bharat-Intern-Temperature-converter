@@ -1,2 +1,3 @@
 # Bharat-Intern-Temperature-converter
-Bharat-Intern-Tempreature-Converter-Task
+This is a "Temperature Converter" project which is developed using HTML,CSS and JAVASCRIPT. It is fun every time to perform some task and i am thankful to #bharatintern to give me this opportunity to enhance my skills and speedup my learning phase...
+
